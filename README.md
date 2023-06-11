@@ -2,4 +2,3 @@
 software architecture lab 1
 
 This lab was made by Mikhailo Moliakov.
-This message will be deleted.
